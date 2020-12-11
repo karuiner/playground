@@ -17,11 +17,11 @@ def solution(numbers):
 t1=[2,1,3,4,1]
 exp_ans1=[2,3,4,5,6,7]
 ans1=solution(t1)
-print(f"input : {t1}\n")
-print(f"expected : {exp_ans1}, result : {ans1}\n")
+print(f"input : {t1}")
+print(f"expected : {exp_ans1}, result : {ans1}")
 t2=[5,0,2,7]
 exp_ans2=[2,5,7,9,12]
 ans2=solution(t2)
-print(f"input : {t2}\n")
-print(f"expected : {exp_ans2}, result : {ans2}\n")
+print(f"input : {t2}")
+print(f"expected : {exp_ans2}, result : {ans2}")
 
